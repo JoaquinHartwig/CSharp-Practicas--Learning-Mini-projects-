@@ -1,109 +1,142 @@
-# C# Prácticas y Mini Proyectos
+# 💻 C# Learning Journey
 
-Repositorio donde documento mi aprendizaje de C# mediante ejercicios, prácticas y mini proyectos desarrollados de forma autodidacta, complementando mis estudios de Analista en Sistemas y Licenciatura en Sistemas de Información en la UNaM FCEQyN.
+> *Documenting the climb, one project at a time.*
 
-## Objetivo
+This repository documents my journey learning **C# and the .NET ecosystem** through exercises, experiments, and small projects developed alongside my university studies in Systems Analysis and Information Systems at UNaM FCEQyN.
 
-Este repositorio funciona como una bitácora práctica de mi progreso en C#. Aquí experimento con nuevos conceptos, resuelvo ejercicios y desarrollo pequeños proyectos para reforzar los conocimientos adquiridos.
+Started: **June 2026**
 
-## Tecnologías
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to track my progress as I learn C# while building a strong foundation in software development.
+
+Rather than simply collecting code, I focus on understanding the reasoning behind each concept, applying it through practice, and documenting what I learn along the way.
+
+This repository serves as both a learning log and a portfolio of my progression as a developer.
+
+---
+
+## 🚀 Projects
+
+Larger applications developed to apply multiple concepts and gain experience building complete solutions.
+
+* 🔹 [CSharp Projects](https://github.com/JoaquinHartwig/CSharp-Proyects)
+* 🔹 [Seminario de Lenguajes I](https://github.com/JoaquinHartwig/Seminario-De-Lenguajes-1)
+
+---
+
+## 🧪 Mini Projects & Practice
+
+A collection of exercises, experiments, and small projects created while learning new concepts and reinforcing programming fundamentals.
+
+* 🔹 [CSharp Mini Projects & Learning Exercises](https://github.com/JoaquinHartwig/CSharp-Practicas--Learning-Mini-projects-)
+
+
+---
+
+## 🛠️ Technologies & Tools
 
 * C#
 * .NET
 * Windows Forms
 * Visual Studio
+* Git
+* GitHub
 
-## Temas estudiados
+---
 
-### Fundamentos
+# 📚 Topics Covered
 
-* Salida y entrada de datos
-* Variables y constantes
-* Conversión de tipos (Type Casting)
-* Operadores aritméticos
-* Clase Math
-* Números aleatorios
+## Fundamentals
 
-### Control de flujo
+* Input and output
+* Variables and constants
+* Type casting
+* Arithmetic operators
+* Math class
+* Random number generation
 
-* Sentencias If / Else
+## Control Flow
+
+* If / Else
 * Switch
-* Operadores lógicos
-* Bucle While
-* Bucle For
-* Bucles anidados
+* Logical operators
+* While loops
+* For loops
+* Nested loops
 
-### Métodos
+## Methods
 
-* Métodos
-* Return
-* Sobrecarga de métodos
-* Params
+* Method creation
+* Parameters
+* Return values
+* Method overloading
+* Params keyword
 
-### Manejo de datos
+## Collections & Data Structures
 
-* Strings y sus métodos
 * Arrays
-* Arrays multidimensionales
-* Foreach
-* Listas
-* Listas de objetos
-* Enumeraciones (Enums)
-* Genéricos
+* Multidimensional arrays
+* Foreach loops
+* Lists
+* Object collections
+* Enumerations (Enums)
+* Generics
 
-### Programación Orientada a Objetos
 
-* Clases y objetos
-* Constructores
-* Constructores sobrecargados
-* Miembros estáticos
-* Herencia
-* Clases abstractas
-* Polimorfismo
+## Object-Oriented Programming
+
+* Classes and objects
+* Constructors
+* Static members
+* Inheritance
+* Abstract classes
+* Polymorphism
 * Interfaces
-* Getters y Setters
-* Propiedades autoimplementadas
-* Método ToString
-* Objetos como argumentos
+* Events
+* Getters and setters
+* Auto-implemented properties
+* Method overriding
+* ToString()
+* Objects as arguments
+## Additional Topics
 
-### Manejo de errores y concurrencia
-
-* Excepciones (Try / Catch)
-* Operador condicional
+* Exception handling
+* Conditional operator
 * Multithreading
 
-## Mini proyectos incluidos
+---
 
-* Calculadora
-* Juego de adivinar el número
-* Piedra, papel o tijera
-* Calculadora de hipotenusa
-* Prácticas de Programación Orientada a Objetos
+## 📖 Learning Philosophy
 
-## Qué aprendí
+I believe programming is learned by building.
 
-* Pensamiento lógico y resolución de problemas
-* Programación Orientada a Objetos
-* Uso de clases y objetos
-* Manejo de colecciones y estructuras de datos básicas
-* Validación de entradas de usuario
-* Manejo de excepciones
-* Organización de proyectos en C#
+Reading and watching tutorials are valuable, but true understanding comes from solving problems, making mistakes, debugging, and continuously improving.
 
-## Próximos objetivos
+This repository reflects that process.
 
-* Profundizar en .NET
-* Crear proyectos más grandes y completos
-* Aprender desarrollo de interfaces gráficas avanzadas
-* Incorporar bases de datos
-* Continuar mi formación en Python y ciberseguridad
+Each folder represents concepts studied, challenges overcome, and practical experience gained while developing my skills as a programmer.
 
-## Autor
+---
+
+## 🎯 Next Goals
+
+* Deepen my understanding of Object-Oriented Programming
+* Build larger desktop applications with .NET
+* Learn database integration
+* Improve software design practices
+* Develop more complete projects
+* Continue documenting my learning journey
+
+---
+
+## 👨‍💻 Author
 
 **Joaquin Hartwig**
 
-* Estudiante de Analista en Sistemas
-* Licenciatura en Sistemas de Información
-* UNaM FCEQyN
+🎓 Systems Analysis / Information Systems Student
+🏛️ UNaM – FCEQyN
 
-GitHub: github.com/JoaquinHartwig
+GitHub: https://github.com/JoaquinHartwig
