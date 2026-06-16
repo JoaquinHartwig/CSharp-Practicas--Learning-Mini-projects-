@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            /*Objectives:
+• Write a program that lets you input the triangle’s base size and height.
+• Compute the area of a triangle by turning the above equation into code.
+• Write the result of the computation.*/
+            float Base = Convert.ToSingle(Console.ReadLine());
+            float height = Convert.ToSingle(Console.ReadLine());
+            float Area = (Base * height) / 2;
+            Console.WriteLine(Area);
+
         }
     }
 }
