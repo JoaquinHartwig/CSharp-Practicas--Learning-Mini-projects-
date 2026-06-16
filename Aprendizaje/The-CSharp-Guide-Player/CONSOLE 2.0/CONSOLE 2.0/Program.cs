@@ -32,6 +32,8 @@
             Console.WriteLine($"#1: {name1,20}"); 
             Console.WriteLine($"#2: {name2,20}");
             Console.WriteLine($"#3: {name3,10 }");
+            Console.WriteLine($"{name1,-20} - 1");
+            Console.WriteLine($"{name2,-20} - 2");
         }
     }
 }
