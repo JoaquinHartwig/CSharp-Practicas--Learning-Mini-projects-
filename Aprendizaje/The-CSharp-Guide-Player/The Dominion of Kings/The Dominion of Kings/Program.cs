@@ -24,6 +24,13 @@ namespace The_Dominion_of_Kings
 
             Console.WriteLine(y++);
 
+            int health = 5;
+            int damage = 10;
+
+            health = Math.Max(health - damage, 0);
+
+            Console.WriteLine(health);//Esto lo puedo utilizar en mi RPG
+
         }
     }
 }
