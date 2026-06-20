@@ -18,6 +18,17 @@
                 total += array[index];
             float average = (float)total / array.Length;
             Console.WriteLine(average);
+
+
+            //for    Usalo cuando necesitás el índice
+
+            //foreach    Usalo cuando solo querés recorrer los elementos.
+
+         
+            
+
+                    
+
         }
     }
 }
