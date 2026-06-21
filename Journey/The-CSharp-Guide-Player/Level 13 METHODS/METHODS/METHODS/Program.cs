@@ -8,7 +8,7 @@
             CountToTen();
             Count(11);
             GetUserName();
-            /// <summary>
+            ///
             void CountToTen()
             {
                 for (int current = 1; current <= 10; current++)
