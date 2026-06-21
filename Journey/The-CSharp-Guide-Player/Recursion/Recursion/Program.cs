@@ -25,3 +25,33 @@
             2 × Factorial(1)
                     ↓
                     1¨*/
+
+/*Factorial(5)
+esperando hacer:
+5 *
+
+↓
+
+Factorial(4)
+esperando hacer:
+4 *
+
+↓
+
+Factorial(3)
+esperando hacer:
+3 *
+
+↓
+
+Factorial(2)
+esperando hacer:
+2 *
+
+↓
+
+Factorial(1)
+
+↓
+
+return 1*/
