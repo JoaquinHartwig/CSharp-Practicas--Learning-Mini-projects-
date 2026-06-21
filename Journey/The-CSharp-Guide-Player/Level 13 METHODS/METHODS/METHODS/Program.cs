@@ -7,6 +7,7 @@
         {
             CountToTen();
             Count(11);
+            GetUserName();
             void CountToTen()
             {
                 for (int current = 1; current <= 10; current++)
@@ -17,7 +18,8 @@
                 for (int current = 1; current <= numberToCountTo; current++)
                     Console.WriteLine(current);
             }
-            string GetUserName()
+            string GetUserName() //returning early
+                                 //return sale del método completo.
             {
                 while (true)
                 {
@@ -27,6 +29,13 @@
                         return name;
                     Console.WriteLine("Let's try that again.");
                 }
+            }
+            void Count(int numberToCountTo)
+            {
+                if (numberToCountTo < 1)
+                    return;
+                for (int index = 1; index <= numberToCountTo; index++)
+                    Console.WriteLine(index);
             }
         }
     }
