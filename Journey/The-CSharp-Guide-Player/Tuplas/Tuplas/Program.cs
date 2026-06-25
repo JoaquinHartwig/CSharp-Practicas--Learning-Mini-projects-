@@ -25,7 +25,7 @@ Clase o struct = entidad del dominio de tu programa.*/
             (string One, int Two, int Three) score2 = GetScore();
             DisplayScore(score2);
             (string N, int P, int L) GetScore() => ("R2-D2", 12420, 15);
-            void DisplayScor2e((string Name, int Points, int Level) score)
+            void DisplayScor2e((string Name, int Points, int Level) score)//Firma
             {
                 Console.WriteLine(
                 $"Name:{score.Name} Level:{score.Level} Score:{score.Points}");
